@@ -18,3 +18,8 @@ $ --> dolloar sign
 > --> greater Than 
 < --> less than 
 ```
+
+
+#word to search 
+
+Operators | + , - , * , % , / 
